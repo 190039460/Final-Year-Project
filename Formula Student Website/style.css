@@ -992,12 +992,10 @@ nav ul li a:hover {
 }
 
 .sponsor h2 {
-    margin-top: 10px;
     margin-left: 10px;
 }
 
 .sponsor p {
-    margin-top: 10px;
     margin-left: 10px;
     font-weight: 100;
     line-height: 25px;
@@ -1386,7 +1384,7 @@ nav ul li a:hover {
 
 .signup {
     width: 370px;
-    height: 440px;
+    height: 410px;
     margin: 20px auto;
     border: 5px solid purple;
     border-radius: 3px;
