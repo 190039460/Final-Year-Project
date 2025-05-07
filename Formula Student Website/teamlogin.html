@@ -9,6 +9,7 @@
         <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
         integrity = "sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
         crossorigin = "anonymous" referrerpolicy = "no-referrer" />
+        <script scr = "script.js"></script>
     </head>
     <body>
         <div class = "container">
@@ -37,10 +38,10 @@
                         <h2> Login </h2>
                         <form>
                             <label> Email </label>
-                            <input type = "email" placeholder = "Enter Aston Email">
+                            <input type = "email" placeholder = "Enter Aston Email" id = "email">
                             <label> Password </label>
-                            <input type = "password" placeholder = "Enter Password">
-                            <input type = "button" value = "Login">
+                            <input type = "password" placeholder = "Enter Password" id = "password">
+                            <input type = "button" value = "Login" onclick = "validate()">
                         </form>
                     </div>
                     <p> Not have an account? <a href = "teamsignup.html"> Sign Up here </a> </p>

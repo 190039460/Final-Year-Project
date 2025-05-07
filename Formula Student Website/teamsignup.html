@@ -9,6 +9,7 @@
         <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
         integrity = "sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
         crossorigin = "anonymous" referrerpolicy = "no-referrer" />
+        <script scr = "script.js"></script>
     </head>
     <body>
         <div class = "container">
@@ -37,12 +38,12 @@
                         <h2> Create an Account </h2>
                         <form>
                             <label> Email </label>
-                            <input type = "email" placeholder = "Enter Aston Email">
+                            <input type = "email" placeholder = "Enter Aston Email" id = "email">
                             <label> Password </label>
-                            <input type = "password" placeholder = "Enter Password">
+                            <input type = "password" placeholder = "Enter Password" id = "password">
                             <label> Confirm Password </label>
-                            <input type = "password" placeholder = "Confirm Password">
-                            <input type = "button" value = "Signup">
+                            <input type = "password" placeholder = "Confirm Password" id = "confirmpassword">
+                            <input type = "button" value = "Signup" onclick = "checkPassword()">
                         </form>
                         <p> By clicking the Signup button, you agree to our <br>  
                         <a href = "#"> Terms & Conditions </a> and <a href = "#"> Policy Privacy </a> 

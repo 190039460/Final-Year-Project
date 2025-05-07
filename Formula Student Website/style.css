@@ -1352,6 +1352,7 @@ nav ul li a:hover {
     background-color: white;
     color: black;
     font-size: 18px;
+    cursor: pointer;
 }
 
 .login input[type = button]:hover {
@@ -1425,6 +1426,7 @@ nav ul li a:hover {
     background-color: white;
     color: black;
     font-size: 18px;
+    cursor: pointer;
 }
 
 .signup input[type = button]:hover {
