@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lan = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width = device - width, intial - scale = 1.0">
+        <link rel = "shortcut icon" type = "x-icon" href = "images/Aston Racing Tab Logo.png">
+        <title> Timeline </title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body>
+        <div class = "timeline-btn">
+            <a href = "history.php"> Back </a>
+        </div>
+        <div class = "timeline">
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2003.JPG">
+                    <h2> 2003 </h2>
+                    <p> In this year was the first time that Aston University took part in the Formula Student Race Car Event with their first build of a functioning racecar. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2004 both cars.JPG">
+                    <h2> 2004 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 2 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2004 car 1.JPG">
+                    <h2> 2004 </h2>
+                    <p> This is the first racecar. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2004 car 2.JPG">
+                    <h2> 2004 </h2>
+                    <p> This is the second racecar. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2005 car 1.JPG">
+                    <h2> 2005 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 2 functioning racecars. This is the first racecar. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2005 car 2.JPG">
+                    <h2> 2005 </h2>
+                    <p> This is the second racecar. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2006.jpg">
+                    <h2> 2006 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2008.jpg">
+                    <h2> 2008 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2009.jpg">
+                    <h2> 2009 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2010.jpg">
+                    <h2> 2010 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2011.JPG">
+                    <h2> 2011 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2012.JPG">
+                    <h2> 2012 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2014.JPG">
+                    <h2> 2014 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2015.jpg">
+                    <h2> 2015 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2016.png">
+                    <h2> 2016 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2017.png">
+                    <h2> 2017 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2019.jpg">
+                    <h2> 2019 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer left-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2021.PNG">
+                    <h2> 2021 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "left-container-arrow"></span>
+                </div>
+            </div>
+            <div class = "timelineContainer right-container">
+                <div class = "timelineTextBox">
+                    <img src = "images/FS 2022.jpg">
+                    <h2> 2022 </h2>
+                    <p> In this year Aston University took part in the Formula Student Race Car Event with 1 functioning racecars. </p>
+                    <span class = "right-container-arrow"></span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

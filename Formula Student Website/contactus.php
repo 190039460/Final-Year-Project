@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lan = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width = device - width, intial - scale = 1.0">
+        <link rel = "shortcut icon" type = "x-icon" href = "images/Aston Racing Tab Logo.png">
+        <title> Contact Us Page </title>
+        <link rel = "stylesheet" href = "style.css">
+        <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
+        integrity = "sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
+        crossorigin = "anonymous" referrerpolicy = "no-referrer" />
+    </head>
+    <body>
+        <div class = "container">
+            <nav> 
+                <ul>
+                    <img src = "images/Aston Racing Logo black writing.png" onclick = "location.href = 'home.php'" class = "logo"> 
+                    <li><a href = "home.php"> Home </a></li>
+                    <li><a href = "aboutus.php"> About Us </a></li>
+                    <li><a href = "meetteam.php"> Meet Team </a></li>
+                    <li><a href = "events.php"> Events </a></li>
+                    <li><a href = "news.php"> News </a></li>
+                    <li><a href = "sponsor.php"> Sponsor </a></li>
+                    <li><a href = "history.php"> History </a></li>
+                    <li><a href = "contactus.php"> Contact Us </a></li>
+                    <li><a href = "organiseteam.php"> Organise Team </a></li>
+                    <li><a href = "teamannouncements.php"> Team Announcements </a></li>
+                    <li><a href = "teamevents.php"> Team Events </a></li>
+                    <li><a href = "log_reg.php"> Team Login </a></li>
+                    <li><a href = "logout.php"> Logout </a></li>
+                </ul>
+            </nav>
+            <div class = "content"> 
+                <div class = "contactUs">
+                    <h1> CONTACT US </h1>
+                    <div class = "contactContainer">
+                        <div class = "contactInfo">
+                            <div class = "box">
+                                <div class = "icon"><i class = "fa fa-map-marker"></i></div>
+                                <div class = "text">
+                                    <h3> Address </h3>
+                                    <p> Aston University,
+                                        <br> The Aston Triangle,
+                                        <br> Birmingham,
+                                        <br> West Midlands,
+                                        <br> B4 7ET,
+                                        <br> United Kingdom </p>
+                                </div>
+                            </div>
+                            <br>
+                            <div class = "box">
+                                <div class = "icon"><i class = "fa fa-phone"></i></div>
+                                <div class = "text">
+                                    <h3> Phone Number </h3>
+                                    <p> 0121 204 3000 </p>
+                                </div>
+                            </div>
+                            <br>
+                            <div class = "box">
+                                <div class = "icon"><i class = "fa fa-envelope"></i></div>
+                                <div class = "text">
+                                    <h3> Email </h3>
+                                    <p> astonracing@aston.ac.uk </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class = "map">
+                            <iframe src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.583758706622!2d-1.891627323403996!3d52.48667182205251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc9ae4f2e4b3%3A0x9a670ba18e08a084!2sAston%20University!5e0!3m2!1sen!2suk!4v1741178403594!5m2!1sen!2suk" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer>  
+                <div class = "footerContainer">
+                    <div class = "socialIcons">
+                        <a href = "https://www.facebook.com/astonuniversity/" target = "_blank" rel = "noopener no-referrer"><i class = "fa-brands fa-facebook"></i></a>
+                        <a href = "https://x.com/AstonUniversity" target = "_blank" rel = "noopener no-referrer"><i class = "fa-brands fa-twitter"></i></a>
+                        <a href = "https://www.instagram.com/AstonUniversity/" target = "_blank" rel = "noopener no-referrer"><i class = "fa-brands fa-instagram"></i></a>
+                        <a href = "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGOoE8g9lonDQAAAZUpANP4yqdDNDyxz1J3tLUlPcp3_2tmurdc0mgKkmEyKnyBUH-Dj8OTr3L25BZhNnba9ZIi3k_IBT0HiTR3ycJxJtwk-betgMXoyL-G35pjObOEVSW79Z4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fschool%2Faston-university%2F" target = "_blank" rel = "noopener no-referrer"><i class = "fa-brands fa-linkedin"></i></a>
+                        <a href = "https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fuser%2FAstonUniversity%3Fcbrd%3D1&gl=GB&m=0&pc=yt&cm=2&hl=en-GB&src=1" target = "_blank" rel = "noopener no-referrer"><i class = "fa-brands fa-youtube"></i></a>
+                        <a href = "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=ASSHykrhAix_B5NLJ78q0u1poaIb7RGWXWmifmbQiVtL_JOnvWJpMozBnNEriBmGvONIZ72zThUkoQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-669902388%3A1739730067641383&ddm=1" target = "_blank" rel = "noopener no-referrer"><i class = "fa-brands fa-google-plus"></i></a>
+                    </div>
+                    <div class = "footerNav">
+                        <ul>
+                            <li><a href = "home.php"> Home </a></li>
+                            <li><a href = "news.php"> News </a></li>
+                            <li><a href = "sponsor.php"> Sponsor </a></li>
+                            <li><a href = "aboutus.php"> About Us </a></li>
+                            <li><a href = "contactus.php"> Contact Us </a></li>
+                        </ul>
+                    </div>
+                    <div class = "footerBottom">
+                        <p> Copyright &copy;2025; Designed by <span class = "designer"> Mohammed Jabir Hussain </span> </p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>

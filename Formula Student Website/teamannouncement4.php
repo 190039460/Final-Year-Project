@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lan = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width = device - width, intial - scale = 1.0">
+        <link rel = "shortcut icon" type = "x-icon" href = "images/Aston Racing Tab Logo.png">
+        <title> Team Announcement 4 </title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body>
+        <div class = "content"> 
+            <div class = "announcmentContainer">
+                <section class = "announcment-box">
+                    <div class = "announcment-image">
+                         <img src = "images/TeamAnnouncement4.png">
+                    </div>
+                    <div class = "announcmentContent">
+                        <h2> Register Your Team </h2>
+                        <br>
+                        <p> All the details you need to register your team for Formula Student. </p>    
+                        <a href = "teamannouncements.php"> Back </a>
+                        <a href = "https://www.imeche.org/events/formula-student/team-information/team-registration" target = "_blank" rel = "noopener no-referrer"> View More </a>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </body>
+</html>

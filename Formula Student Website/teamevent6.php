@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lan = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width = device - width, intial - scale = 1.0">
+        <link rel = "shortcut icon" type = "x-icon" href = "images/Aston Racing Tab Logo.png">
+        <title> Team Event 6 </title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body>
+        <div class = "content"> 
+            <div class = "teamEventContainer">
+                <section class = "teamEvent-box">
+                    <div class = "teamEvent-image">
+                         <img src = "images/TeamEvent6.png">
+                    </div>
+                    <div class = "teamEventContent">
+                        <h2> Ready to take your designs to the next level? </h2>
+                        <br>
+                        <p> 17 Apr 2025 </p>
+                        <br>
+                        <p> Formula Student Team </p>
+                        <br>
+                        <p> Join the ranks of student teams worldwide partnering with Ansys and access industry-leading 
+                            simulation tools for free. </p>    
+                        <a href = "teamevents.php" class = "return-teamEvents"> Back </a>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </body>
+</html>

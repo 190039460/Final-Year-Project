@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lan = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width = device - width, intial - scale = 1.0">
+        <link rel = "shortcut icon" type = "x-icon" href = "images/Aston Racing Tab Logo.png">
+        <title> News 3 </title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body>
+        <div class = "content"> 
+            <div class = "newsContainer">
+                <section class = "news-box">
+                    <div class = "news-image">
+                         <img src = "images/News3.png">
+                    </div>
+                    <div class = "newsContent">
+                        <h2> Formula Student 2025 registration now open </h2>
+                        <br>
+                        <p> 31 Oct 2024 </p>
+                        <br>
+                        <p> Formula Student Team </p>
+                        <br>
+                        <p> Deadline for Design Concept Specification (DCS) 6 December 2025 </p>    
+                        <a href = "news.php" class = "return-news"> Back </a>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lan = "en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width = device - width, intial - scale = 1.0">
+        <link rel = "shortcut icon" type = "x-icon" href = "images/Aston Racing Tab Logo.png">
+        <title> News 6 </title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body>
+        <div class = "content"> 
+            <div class = "newsContainer">
+                <section class = "news-box">
+                    <div class = "news-image">
+                         <img src = "images/News6.png">
+                    </div>
+                    <div class = "newsContent">
+                        <h2> Where are they now? Harry Graff, Bentley Motors Placement Student </h2>
+                        <br>
+                        <p> 18 Oct 2024 </p>
+                        <br>
+                        <p> Formula Student Team </p>
+                        <br>
+                        <p> Harry shares his experiences of the Bentley Motors placement scheme and how it has enhanced his 
+                            engineering career. </p>    
+                        <a href = "news.php" class = "return-news"> Back </a>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </body>
+</html>
